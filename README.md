@@ -1,8 +1,8 @@
 # Image-Super-Resolution
 Giving the good Resolution size for low pixel images
-https://github.com/Meghashyamt/Image-Super-Resolution/blob/master/RDB1.png
+!https://github.com/Meghashyamt/Image-Super-Resolution/blob/master/RDB1.png
 
-https://github.com/Meghashyamt/Image-Super-Resolution/blob/master/RDB1.png
+!https://github.com/Meghashyamt/Image-Super-Resolution/blob/master/RDB1.png
 
 RRDN Network architecture
 The main parameters of the architecture structure are:
